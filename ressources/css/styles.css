@@ -98,3 +98,12 @@ img{
 .drop-social:hover{
     color: var(--first-color);
 }
+
+    /*Chosen item*/
+.sortable-chosen{
+    box-shadow: 4px 4px 4px #605d5d;
+}
+
+.sortable-drag{
+    opacity: 0;
+}
